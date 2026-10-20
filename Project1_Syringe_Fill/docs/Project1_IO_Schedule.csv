@@ -1,0 +1,6 @@
+Tag Name,Description,Device Type,Signal Type,PLC Rack Address,Engineering Range,Calibration Frequency
+PDT-104,Filling Zone Differential Pressure,Transmitter,4-20mA Analog Input,Rack_01_Slot_03_CH0,0 to 50 Pa,6 Months
+ZSC-101,Infeed Tub Presence Sensor,Proximity Switch,24VDC Digital Input,Rack_01_Slot_02_IN4,N/A,12 Months
+PE-102,No Syringe No Fill Optical Sensor,Photoelectric Eye,24VDC Digital Input,Rack_01_Slot_02_IN5,N/A,12 Months
+WT-103,In-Line Checkweigher Load Cell,Weight Transmitter,PROFINET Node,Network_ID_05,0 to 10g,3 Months
+FCV-105,Nitrogen Purge Control Valve,Solenoid Valve,24VDC Digital Output,Rack_01_Slot_04_OUT2,Open/Closed,12 Months
