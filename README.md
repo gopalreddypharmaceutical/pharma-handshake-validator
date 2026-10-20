@@ -1,0 +1,1 @@
+# pharma-handshake-validator
